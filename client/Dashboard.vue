@@ -11,7 +11,6 @@ import Vue from "vue";
 import Component from "vue-class-component";
 import OrchardList from "./assistant/components/OrchardList.vue";
 
-//import HeroList from './components/HeroList.vue';
 @Component({
   components: { OrchardList}
 })
