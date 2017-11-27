@@ -23,13 +23,6 @@ new AppConstructor(
     router
 });
 
-/*const app = new Vue({
-    router
-}).$mount("#app"); */
-
-
-
-
 let nav = document.getElementById("nav");
 if(nav)
     nav.style.visibility = "visible";
