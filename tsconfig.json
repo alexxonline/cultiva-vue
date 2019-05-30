@@ -10,12 +10,8 @@
         "emitDecoratorMetadata": true,
         "moduleResolution": "node",
         "target": "es5",
-        "lib": [
-          "es2016",
-          "dom"
-      ]
+        "lib": ["es2016", "dom"],
+        "strictPropertyInitialization": false
     },
-    "include": [
-        "./client/**/*"
-    ]
-  }
+    "include": ["./client/**/*"]
+}
