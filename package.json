@@ -14,7 +14,7 @@
     "author": "Alex Saez",
     "license": "ISC",
     "dependencies": {
-        "axios": "^0.17.1",
+        "axios": "^0.18.0",
         "babel-polyfill": "^6.26.0",
         "body-parser": "^1.18.2",
         "bootstrap": "^4.0.0-beta.2",
